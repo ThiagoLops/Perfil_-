@@ -1,0 +1,48 @@
+			body{
+				background-color: black;
+				/*background-image: url(images/19390822_VST.jpg);
+				position: static;*/
+			}
+			.um{
+				color:black;
+				font-family: Broadway, Arial ;
+				text-align: left;
+				font-size: 30px;
+			}
+			.dois{
+				font-family: Broadway, Arial;
+				text-align: center;
+				color:white;
+				font-size: 30px;
+			}
+
+			li{
+				padding: 100px;
+				display: inline;
+			}
+			section{
+				background-image: url(images/18767369_886.jpg);
+				width: 1250px;
+				height: 250px;
+				padding: 50px;
+				top:280px;
+				position: fixed;
+
+			}
+			.trap{
+				font-family: Broadway, Arial ;
+				text-align: left;
+				font-size: 30px;
+			}
+			#trap{
+				background-color:black;
+			}
+			.imgRedonda{
+				border-radius:50%;
+				width: 200px;
+				height:200px;
+			}
+			.imgRedonda:hover{
+				border-radius: 0%;
+				transition: all 1.9s;
+			} 
